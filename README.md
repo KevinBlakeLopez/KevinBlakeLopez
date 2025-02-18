@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinBlakeLopez
 - 👀 I’m interested in front end and back end web development.
-- 🌱 I’m currently coding in Javascript, React, Next.js, HTMX, Node.js, Express, Liquid, TailwindCSS, PHP, PostgreSQL, MongoDB, and mySQL.  I also do web design and prototyping using Figma.
+- 🌱 I’m currently programming in Javascript/Typescript, React, Angular, Next.js, Node.js, Express, Python, Flask, PHP, PostgreSQL, sqlite, MongoDB, and mySQL.  I also do web design and prototyping using Figma.
 - 💞️ I’m looking to collaborate on student projects.
 - 📫 How to reach me ...
 
