@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KevinBlakeLopez
 - 👀 I’m interested in front end and back end web development.
-- 🌱 I’m currently programming in Javascript/Typescript and PHP, Vue, React, Angular, Next.js, Node.js, Express, Python, Flask, PostgreSQL, sqlite, MongoDB, and mySQL.  I also occasionally work on web design and prototyping using Figma.
-- I can also work in Docker, Linux/Apache, and AWS.
+- 🌱 I’m currently programming in Javascript/Typescript and PHP, specifically with Vue, CodeIgniter4 (PHP MVC framework), mySQL, Linux/Apache, and Docker.  I also have experience with React, Angular, Next.js, Node.js and Express, Python, Flask, PostgreSQL, sqlite, MongoDB.  I also occasionally work on web design and prototyping using Figma and have project management experience.
 - 📫 How to reach me ...
 - kevinblakelopez@gmail.com
 
