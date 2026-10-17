@@ -1,3 +1,5 @@
+![I fight for the users](./i-fight-for-the-users.jpg)
+
 # Kevin Blake Lopez
 
 I work at ContinuumGRC on the IT Audit Machine. The work is assessments: evidence collected against controls, examiner review, findings, and reports, for one entity and one audit year.
