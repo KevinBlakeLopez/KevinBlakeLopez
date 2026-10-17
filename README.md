@@ -8,13 +8,11 @@ I work at ContinuumGRC on the IT Audit Machine. The work is assessments: evidenc
 
 I build software and work to make it reliable and accountable to the people who use it.
 
-At work I use MySQL and CodeIgniter's query builder. `updateBatch()` drops a `where()` that was only chained on the builder, so the batch can write outside the scope the caller set. `insertBatch()` requires the same keys on every row, and a mismatch throws rather than dropping a column.
-
 ## Stack
 
-TypeScript and PHP. Vue, React, and CodeIgniter. MySQL.
+TypeScript and PHP. Vue, React, and Adonis.js.
 
-I also work with Express, MongoDB, Mongoose, Flask, SQLite, Angular 15, React 19, React Router 7, Next.js, WordPress, HTMX, and Adonis.js.
+I also work with Express, MongoDB, Mongoose, Flask, SQLite, Angular 15, React 19, React Router 7, Next.js, WordPress, and HTMX.
 
 ## Public project
 
