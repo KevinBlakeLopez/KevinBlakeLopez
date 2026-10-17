@@ -1,10 +1,16 @@
 # Kevin Blake Lopez
 
-I work on the IT Audit Machine. People collect evidence against controls, examiners assess it, and the application holds the findings, files, and reports for one entity and one audit year. The code is CodeIgniter 4, Vue, and TypeScript, on MySQL. Tests run with Pest, Codeception, Vitest, and Playwright.
+I work at ContinuumGRC on the IT Audit Machine. The work is assessments: evidence collected against controls, examiner review, findings, and reports, for one entity and one audit year.
 
-The bugs I spend time on are the ones where the framework's account and the database disagree. `updateBatch` drops a `where()` that was only chained on the builder, so a batch can write outside the scope the caller set. `getPost()` never sees the JSON body the browser sent. A queue worker that fails with a transaction still open can leave that transaction for the next job. The database is shared, so I count statements instead of trusting local wall time, and a test has to put a real request or a real query on one side of that boundary.
+## Primary stack
 
-The public project is the [PostgreSQL Persistence Conformance Suite](https://github.com/KevinBlakeLopez/PostgreSQL-Persistence-Conformance-Suite). It drives Lucid, MikroORM, and TypeORM through their own APIs, injects controlled failures, and asks PostgreSQL whether the framework's report of the transaction matches what the server did.
+TypeScript and PHP. Vue, React, Adonis.js, and CodeIgniter. PostgreSQL.
+
+I also work with Express, MongoDB, Mongoose, Flask, SQLite, Angular 15, React 19, React Router 7, Next.js, WordPress, and HTMX.
+
+## Public project
+
+The public project is the [PostgreSQL Persistence Conformance Suite](https://github.com/KevinBlakeLopez/PostgreSQL-Persistence-Conformance-Suite). It arose from my interest in the Adonis.js Lucid ORM. It drives Lucid, MikroORM, and TypeORM through their own APIs, injects controlled failures, and asks PostgreSQL whether the framework's report of the transaction matches what the server did.
 
 ## Contact
 
